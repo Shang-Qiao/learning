@@ -1,0 +1,7 @@
+1. Chrome浏览器JS解析引擎 => V8;
+2. 浏览器运行环境：V8引擎 + js基础语法 + 内置API(DOM + BOM + Ajax + ...);
+3. Node.js运行环境：V8引擎 + js基础语法 + 内置API(fs + path + http + ...);
+4. (1)基于Express框架，构建web应用；
+   (2)读写操作数据库，文件...
+5. JS基础语法 + Nodejs内置模块Api + 第三方模块；
+6.
